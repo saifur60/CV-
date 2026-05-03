@@ -1,5 +1,5 @@
-title: Md Saifur Rahman
-logo: Assets/Images/cropped_circle_image.png
-description: text below image
+title: "Md Saifur Rahman"
+logo: /Assets/Images/cropped_circle_image.png
+description: "💻 CSE Student passionate about programming, problem-solving, and building real-world applications. Always learning and growing as a developer."
 show_downloads: true
 theme: jekyll-theme-minimal
