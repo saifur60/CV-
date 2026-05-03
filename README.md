@@ -1,90 +1,68 @@
-# 👋 Hi, I'm Md Saifur Rahman
+# Md Saifur Rahman
 
-🎓 CSE Student (4th Year) | 💻 Aspiring Software Developer | 🇧🇩 Bangladesh  
-
----
-
-## 🚀 About Me
-- 🎓 Studying **Computer Science & Engineering** at Leading University, Sylhet  
-- 💡 Passionate about programming, problem-solving, and design  
-- 🛠️ Interested in Web Development & Software Engineering  
-- 🎯 Goal: Become a skilled developer and contribute to real-world projects  
-
----
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-
-### 🧰 Tools & Software
-![MS Word](https://img.shields.io/badge/MS_Word-blue?style=for-the-badge&logo=microsoftword)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=microsoftpowerpoint)
-![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+## 📌 Personal Information
+- **Name:** Md Saifur Rahman  
+- **Father’s Name:** Md Mohibur Rahman  
+- **Mother’s Name:** Shahinara Chowdhury  
+- **Present Address:** Vill: Shibgonj, Upazila: Shahporan, Dist: Sylhet  
+- **Permanent Address:** Vill: Goyashpur, P.O: Karimpur, Upazila: Rajnagar, Dist: Moulvibazar  
+- **Date of Birth:** 15 November 2002  
+- **Nationality:** Bangladeshi  
+- **Religion:** Islam  
+- **Marital Status:** Unmarried  
+- **Gender:** Male  
+- **Blood Group:** O+  
 
 ---
 
-## 📂 Projects
-
-### 🔹 Project 1: Student Management System
-- 📌 Description: A simple system to manage student records (add, update, delete, search)  
-- ⚙️ Tech Used: C / C++  
-- 🔗 GitHub Repo: https://github.com/YOUR_USERNAME/student-management-system  
+## 🎯 Career Objective
+I would like to build my career in a well-known organization by using my creativity, efficiency, and hard work. I aim to contribute to organizational goals while continuously improving myself and embracing challenges and competition.
 
 ---
 
-### 🔹 Project 2: Personal Portfolio Website
-- 📌 Description: A responsive personal portfolio website to showcase skills and projects  
-- ⚙️ Tech Used: HTML, CSS, JavaScript  
-- 🔗 GitHub Repo: https://github.com/YOUR_USERNAME/portfolio  
+## 🎓 Educational Qualifications
+
+### 💻 Bachelor of Science (BSc) in Computer Science & Engineering
+- **Status:** 4th Year (Ongoing)  
+- **Institution:** Leading University, Sylhet  
+
+### 📘 Higher Secondary Certificate (HSC)
+- **Institution:** Moulvibazar Govt. College  
+- **Group:** Science  
+- **GPA:** 4.58  
+- **Passing Year:** 2021  
+- **Board:** Sylhet  
+
+### 📗 Secondary School Certificate (SSC)
+- **Institution:** Alhaj Abdul Moktadir Academy  
+- **Group:** Science  
+- **GPA:** 5.00  
+- **Passing Year:** 2019  
+- **Board:** Sylhet  
 
 ---
 
-### 🔹 Project 3: Calculator App
-- 📌 Description: A basic calculator application with standard operations  
-- ⚙️ Tech Used: C++ / JavaScript  
-- 🔗 GitHub Repo: https://github.com/YOUR_USERNAME/calculator  
+## 💻 Computer Skills
+- MS Word  
+- MS Excel  
+- MS PowerPoint  
+- Canva Designing  
+- Multitasking  
 
 ---
 
-👉 *More projects coming soon...*
+## 🌐 Language Skills
+- **Bengali:** Native proficiency  
+- **English:** Moderate proficiency in speaking and writing  
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🌱 Currently Learning
-- Data Structures & Algorithms  
-- Web Development (HTML, CSS, JavaScript)  
-- Git & GitHub  
-
----
-
-## 🌐 Connect With Me
-- 📧 Email: saifur4133@gmail.com  
-- 📱 Phone: +880171431413  
-
----
-
-## 📌 Personal Info
-- 📍 Sylhet, Bangladesh  
-- 🎂 15 November 2002  
+## 📬 Contact Information
+- **Address:** Vill: Shibgonj, Upazila: Shahporan, Dist: Sylhet  
+- **Email:** saifur4133@gmail.com  
+- **Phone:** +880171431413  
 
 ---
 
 ## 📜 Declaration
-I hereby declare that all information is true and correct to the best of my knowledge.
+I hereby declare that all the above information is true and correct to the best of my knowledge and belief.
